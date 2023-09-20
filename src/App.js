@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <Analytics />
-      {inject();}
+      {inject()}
       <LandingPage />
     </>
   );
