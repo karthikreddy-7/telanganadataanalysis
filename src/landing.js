@@ -27,7 +27,7 @@ function LandingPage() {
       title: "STAMP REGISTRATION",
       body: "INSIGHTS FROM FY2019-FY2022",
       iframeSrc:
-        "https://app.powerbi.com/view?r=eyJrIjoiNjg4MzI2M2MtMTA2MC00NTZjLThkY2ItZDVmNmYxMjMzZDQyIiwidCI6IjY4M2ZiZDUwLTQyNWUtNDJkMC1hYjg1LTVkNDVjZjFmYjgyMyJ9",
+        "https://app.powerbi.com/view?r=eyJrIjoiN2YzYzMwNTctZWFmNC00MDk0LTljM2YtNWZlZmVlYzk1MjAyIiwidCI6IjY4M2ZiZDUwLTQyNWUtNDJkMC1hYjg1LTVkNDVjZjFmYjgyMyJ9",
     },
     {
       title: "TRANSPORTATION",
