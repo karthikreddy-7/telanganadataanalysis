@@ -16,14 +16,14 @@ For data analysis related to Telangana, specifically regarding "fact_stamps," "f
 
 ## Usage
 
-1.Data Sources: Collect data from "fact_stamps," "fact_transport," and "fact_Ts_ipass" sources.
-2.Data Cleaning: Prepare and clean the data by removing duplicates, handling missing values, and ensuring data quality.
-3.Data Modeling: Create data models in Power BI to establish relationships between the different data sources.
-4.Data Visualization: Use Power BI's visualization tools to create interactive dashboards and reports.
-5.Analysis: Analyze the data to derive insights, trends, and patterns related to stamps, transport, and Ts_ipass data.
-6.Performance Monitoring: Monitor key performance indicators (KPIs) using Power BI visuals to track the progress of your analysis.
-7.Sharing: Share your Power BI reports and dashboards with stakeholders for decision-making and collaboration.
-8.Iterative Analysis: Continuously refine your analysis based on feedback and changing data.
+1.**Data Sources** : Collect data from "fact_stamps," "fact_transport," and "fact_Ts_ipass" sources.
+2. **Data Cleaning** : Prepare and clean the data by removing duplicates, handling missing values, and ensuring data quality.
+3.**Data Modeling** : Create data models in Power BI to establish relationships between the different data sources.
+4. **Data Visualization**: Use Power BI's visualization tools to create interactive dashboards and reports.
+5. **Analysis**: Analyze the data to derive insights, trends, and patterns related to stamps, transport, and Ts_ipass data.
+6. **Performance Monitoring**: Monitor key performance indicators (KPIs) using Power BI visuals to track the progress of your analysis.
+7. **Sharing** : Share your Power BI reports and dashboards with stakeholders for decision-making and collaboration.
+8. **Iterative Analysis** : Continuously refine your analysis based on feedback and changing data.
 
 Power BI provides a user-friendly platform for data analysis and visualization, making it an excellent choice for exploring and presenting insights from diverse datasets like "fact_stamps," "fact_transport," and "fact_Ts_ipass" in Telangana.
 
