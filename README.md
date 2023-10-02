@@ -1,6 +1,8 @@
 
 # Telangana Data Analysis Project
 
+#### To Check the website https://telanganadataanalysis.vercel.app/
+
 ## Project Overview
 The Telangana Data Analysis project aims to analyze and derive valuable insights from three key datasets: "fact_stamps," "fact_transport," and "fact_Ts_ipass." These datasets contain a wealth of information related to various aspects of Telangana, including transportation, government services, and public behavior. By conducting a comprehensive analysis of these datasets, we seek to uncover patterns, trends, and correlations that can inform decision-making, policy formulation, and future planning for the state.
 
