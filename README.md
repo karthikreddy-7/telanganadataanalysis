@@ -17,7 +17,7 @@ For data analysis related to Telangana, specifically regarding "fact_stamps," "f
 ## Usage
 
 1.**Data Sources** : Collect data from "fact_stamps," "fact_transport," and "fact_Ts_ipass" sources.<br>
-2. **Data Cleaning** : Prepare and clean the data by removing duplicates, handling missing values, and ensuring data quality.<br>
+2.**Data Cleaning** : Prepare and clean the data by removing duplicates, handling missing values, and ensuring data quality.<br/>
 3.**Data Modeling** : Create data models in Power BI to establish relationships between the different data sources.<br>
 4. **Data Visualization**: Use Power BI's visualization tools to create interactive dashboards and reports.<br>
 5. **Analysis**: Analyze the data to derive insights, trends, and patterns related to stamps, transport, and Ts_ipass data.<br>
