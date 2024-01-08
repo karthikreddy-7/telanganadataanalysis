@@ -225,7 +225,7 @@ function LandingPage() {
                 />
                 <div class="flex-grow sm:pl-8">
                   <h2 class="title-font font-medium text-lg text-gray-900">
-                    Aryan Rajesh
+                    Subrahmanya Abhiram
                   </h2>
                   <h3 class="text-gray-500 mb-3">Data Analsyt</h3>
                   <p class="mb-4">
